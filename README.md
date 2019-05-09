@@ -33,3 +33,8 @@ This will be an amazing repository filled with groovy visualizations of Caltrain
 
 ## Timeline
 
+## Winning presentation will be both aesthetically pleasing and informative
+
+## Resources
+[Caltrain-hsr Compatability Blog](http://caltrain-hsr.blogspot.com/)  
+[Caltrain Data Viz Callenge](https://www.caltrain2040.org/data/)
