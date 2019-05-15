@@ -4,6 +4,7 @@ Caltrain Visualization Challenge
 This will be an amazing repository filled with groovy visualizations of Caltrain data.
 
 ## Questions
+* Definition of a "good" station
 * 
 
 ## Goals
@@ -36,5 +37,6 @@ This will be an amazing repository filled with groovy visualizations of Caltrain
 ## Winning presentation will be both aesthetically pleasing and informative
 
 ## Resources
+[Our Planning Document](https://docs.google.com/document/d/1r42gtM3m5TrBkA_5oLeCqMcv_UHGWzn_Bkny-s4jsos/edit)
 [Caltrain-hsr Compatability Blog](http://caltrain-hsr.blogspot.com/)  
 [Caltrain Data Viz Callenge](https://www.caltrain2040.org/data/)
