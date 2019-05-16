@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.arcgisonline.com/home/pkinfostylesheet.xsl"?>
+<pkinfo Culture='en-US'>
+<ID>9DAE9D3A-7D7E-4F9A-B9BC-3654B2D70D99</ID>
+<name>Caltrain_Corridor</name>
+<version>10.5</version>
+<size>-1</size>
+<created></created>
+<type>Map Package</type>
+<servable>false</servable>
+<packagelocation></packagelocation>
+<pkinfolocation></pkinfolocation>
+<documenttypes>
+<documenttype>mxd</documenttype>
+</documenttypes>
+</pkinfo>

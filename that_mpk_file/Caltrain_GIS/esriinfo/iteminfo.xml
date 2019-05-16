@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>Caltrain_Corridor</name>
+<guid>9DAE9D3A-7D7E-4F9A-B9BC-3654B2D70D99</guid>
+<catalogpath></catalogpath>
+<snippet>Station Summary</snippet>
+<description>Station Summary</description>
+<summary>Station Summary</summary>
+<title>Caltrain_Corridor</title>
+<tags>transit, markets</tags>
+<type>Map Package</type>
+<typekeywords>
+<typekeyword>File Geodatabase Feature Class</typekeyword>
+<typekeyword>Shapefile Feature Class</typekeyword>
+<typekeyword>Map Package</typekeyword>
+<typekeyword>Map</typekeyword>
+<typekeyword>2D</typekeyword>
+<typekeyword>ArcMap</typekeyword>
+<typekeyword>mpk</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<datalastmodifiedtime></datalastmodifiedtime>
+<extent>
+<xmin>-179.999988541187</xmin>
+<ymin>-85.051128779505</ymin>
+<xmax>179.999988541187</xmax>
+<ymax>85.0511287796694</ymax>
+</extent>
+<spatialreference>NAD_1983_StatePlane_California_III_FIPS_0403_Feet</spatialreference>
+<accessinformation></accessinformation>
+<licenseinfo></licenseinfo>
+</ESRI_ItemInformation>
