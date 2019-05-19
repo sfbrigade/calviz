@@ -1,0 +1,1025 @@
+Origin_ID,Origin_Name,Dest_ID,Dest_Name,Ridership_2017_observed,Ridership_2022_diesel,Ridership_2022_PCEP,Ridership_2029_PCEP_noTransbay,Ridership_2029_PCEP,Ridership_2029_HSR1,Ridership_2033_HSR1,Ridership_2033_HSR2,Ridership_2040_HSR2,Ridership_2040_moderate,Ridership_2040_high
+1,Transbay,1,Transbay,0,0,0,0,0,0,0,0,0,0,0
+2,4th and King,1,Transbay,0,0,0,0,30,37,39,35,38,130,122
+4,22nd St,1,Transbay,0,0,0,0,15,31,35,34,41,66,68
+7,Bayshore,1,Transbay,0,0,0,0,8,25,28,27,33,33,31
+8,South San Francisco,1,Transbay,0,0,0,0,48,28,32,31,37,110,104
+9,San Bruno,1,Transbay,0,0,0,0,26,31,33,33,36,34,32
+10,Millbrae,1,Transbay,0,0,0,0,33,47,49,49,52,79,76
+11,Broadway,1,Transbay,0,0,0,0,29,30,31,31,34,31,29
+12,Burlingame,1,Transbay,0,0,0,0,37,38,40,40,42,38,37
+13,San Mateo,1,Transbay,0,0,0,0,45,57,59,59,64,47,49
+14,Hayward Park,1,Transbay,0,0,0,0,28,29,31,31,35,32,31
+15,Hillsdale,1,Transbay,0,0,0,0,53,82,86,86,93,142,130
+16,Belmont,1,Transbay,0,0,0,0,28,27,28,28,31,28,28
+17,San Carlos,1,Transbay,0,0,0,0,29,25,26,26,28,25,29
+18,Redwood City,1,Transbay,0,0,0,0,58,66,69,69,75,120,114
+20,Atherton,1,Transbay,0,0,0,0,14,13,14,14,15,16,10
+21,Menlo Park,1,Transbay,0,0,0,0,29,26,28,28,30,31,34
+22,Palo Alto,1,Transbay,0,0,0,0,189,150,156,156,169,388,373
+24,California Ave,1,Transbay,0,0,0,0,74,61,64,64,72,80,76
+25,San Antonio,1,Transbay,0,0,0,0,54,45,50,50,57,66,64
+26,Mountain View,1,Transbay,0,0,0,0,92,110,115,115,123,173,167
+27,Sunnyvale,1,Transbay,0,0,0,0,87,100,106,106,116,176,169
+28,Lawrence,1,Transbay,0,0,0,0,46,55,59,59,65,68,66
+30,Santa Clara,1,Transbay,0,0,0,0,48,48,51,51,56,66,64
+31,College Park,1,Transbay,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,1,Transbay,0,0,0,0,73,85,89,86,69,125,126
+33,Tamien,1,Transbay,0,0,0,0,13,22,24,24,30,52,55
+34,Capitol,1,Transbay,0,0,0,0,0,0,0,0,0,18,23
+35,Blossom Hill,1,Transbay,0,0,0,0,0,0,0,0,0,30,34
+36,Morgan Hill,1,Transbay,0,0,0,0,0,0,0,0,0,13,15
+37,San Martin,1,Transbay,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,1,Transbay,0,0,0,0,0,0,0,0,0,3,7
+1,Transbay,2,4th and King,0,0,0,0,33,41,43,39,43,135,127
+2,4th and King,2,4th and King,0,0,0,0,0,0,0,0,0,0,0
+4,22nd St,2,4th and King,2,4,8,11,11,20,22,22,29,54,57
+7,Bayshore,2,4th and King,5,2,5,6,6,5,5,5,6,3,3
+8,South San Francisco,2,4th and King,7,23,40,53,32,24,29,29,34,85,81
+9,San Bruno,2,4th and King,12,24,33,32,31,30,33,33,38,36,34
+10,Millbrae,2,4th and King,9,36,39,53,53,66,73,73,81,100,93
+11,Broadway,2,4th and King,0,0,25,31,26,26,26,26,31,26,24
+12,Burlingame,2,4th and King,28,33,39,42,31,29,31,31,34,29,28
+13,San Mateo,2,4th and King,61,43,54,53,37,41,44,44,47,35,34
+14,Hayward Park,2,4th and King,14,13,21,30,23,22,23,23,27,23,22
+15,Hillsdale,2,4th and King,31,46,59,53,40,55,57,57,64,86,80
+16,Belmont,2,4th and King,27,21,26,29,24,22,23,23,25,22,20
+17,San Carlos,2,4th and King,21,21,25,30,24,21,23,23,25,21,21
+18,Redwood City,2,4th and King,68,49,57,63,47,55,57,57,63,85,81
+20,Atherton,2,4th and King,0,0,10,13,13,12,11,11,14,14,8
+21,Menlo Park,2,4th and King,45,17,23,27,24,21,22,22,25,25,28
+22,Palo Alto,2,4th and King,82,143,201,180,111,124,132,132,146,200,192
+24,California Ave,2,4th and King,27,43,56,69,58,49,53,53,59,70,66
+25,San Antonio,2,4th and King,42,29,47,53,42,35,38,38,44,54,52
+26,Mountain View,2,4th and King,80,78,96,97,70,88,94,94,100,125,119
+27,Sunnyvale,2,4th and King,91,78,104,89,69,78,84,84,91,123,117
+28,Lawrence,2,4th and King,18,32,39,46,39,46,48,48,53,54,52
+30,Santa Clara,2,4th and King,42,45,66,50,51,44,46,46,52,62,59
+31,College Park,2,4th and King,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,2,4th and King,93,78,125,77,74,99,105,102,86,130,132
+33,Tamien,2,4th and King,1,14,17,16,13,22,25,25,32,51,52
+34,Capitol,2,4th and King,0,0,0,0,0,0,0,0,0,19,23
+35,Blossom Hill,2,4th and King,0,0,0,0,0,0,0,0,0,29,33
+36,Morgan Hill,2,4th and King,0,0,0,0,0,0,0,0,0,11,13
+37,San Martin,2,4th and King,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,2,4th and King,0,0,0,0,0,0,0,0,0,5,8
+1,Transbay,4,22nd St,0,0,0,0,15,33,37,36,43,76,90
+2,4th and King,4,22nd St,0,2,7,10,9,20,23,23,28,59,73
+4,22nd St,4,22nd St,0,0,0,0,0,0,0,0,0,0,0
+7,Bayshore,4,22nd St,1,0,0,1,1,0,0,0,0,2,3
+8,South San Francisco,4,22nd St,0,2,8,11,9,6,8,8,9,21,28
+9,San Bruno,4,22nd St,1,2,8,8,8,8,8,8,10,7,9
+10,Millbrae,4,22nd St,0,5,12,13,14,16,17,17,19,24,30
+11,Broadway,4,22nd St,0,0,7,7,7,0,0,0,0,6,8
+12,Burlingame,4,22nd St,0,2,8,9,9,8,9,9,11,6,8
+13,San Mateo,4,22nd St,0,3,10,11,10,13,13,13,15,7,9
+14,Hayward Park,4,22nd St,0,2,6,7,7,0,0,0,0,5,6
+15,Hillsdale,4,22nd St,0,3,10,11,10,13,14,14,17,20,26
+16,Belmont,4,22nd St,0,2,7,7,7,7,8,8,8,5,7
+17,San Carlos,4,22nd St,0,2,7,7,7,0,0,0,0,5,7
+18,Redwood City,4,22nd St,8,5,14,15,14,14,14,14,17,23,29
+20,Atherton,4,22nd St,0,0,4,4,5,4,5,5,6,5,3
+21,Menlo Park,4,22nd St,11,2,7,7,7,8,8,8,9,7,13
+22,Palo Alto,4,22nd St,2,14,38,40,34,36,38,38,43,60,78
+24,California Ave,4,22nd St,20,5,17,19,19,18,19,19,22,23,29
+25,San Antonio,4,22nd St,0,2,12,13,14,0,0,0,0,19,24
+26,Mountain View,4,22nd St,0,7,22,22,22,27,28,28,30,41,52
+27,Sunnyvale,4,22nd St,3,7,22,23,22,21,22,22,25,41,52
+28,Lawrence,4,22nd St,0,3,12,13,13,13,13,13,15,19,24
+30,Santa Clara,4,22nd St,0,5,16,16,16,16,17,17,19,22,28
+31,College Park,4,22nd St,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,4,22nd St,5,9,27,24,25,33,33,33,37,45,58
+33,Tamien,4,22nd St,1,0,5,5,5,7,8,8,10,17,24
+34,Capitol,4,22nd St,0,0,0,0,0,0,0,0,0,8,13
+35,Blossom Hill,4,22nd St,0,0,0,0,0,0,0,0,0,12,19
+36,Morgan Hill,4,22nd St,0,0,0,0,0,0,0,0,0,4,7
+37,San Martin,4,22nd St,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,4,22nd St,0,0,0,0,0,0,0,0,0,4,6
+1,Transbay,7,Bayshore,0,0,0,0,7,24,28,27,33,33,31
+2,4th and King,7,Bayshore,2,1,3,4,4,4,4,4,5,3,3
+4,22nd St,7,Bayshore,0,0,0,1,1,0,0,0,0,2,2
+7,Bayshore,7,Bayshore,0,0,0,0,0,0,0,0,0,0,0
+8,South San Francisco,7,Bayshore,0,2,5,10,10,0,0,0,0,12,11
+9,San Bruno,7,Bayshore,0,1,5,5,5,0,0,0,0,5,5
+10,Millbrae,7,Bayshore,0,5,10,12,12,12,14,18,25,17,17
+11,Broadway,7,Bayshore,0,0,3,4,4,4,5,5,7,3,2
+12,Burlingame,7,Bayshore,0,1,4,6,6,0,0,0,0,4,4
+13,San Mateo,7,Bayshore,0,1,5,7,7,0,0,0,0,4,6
+14,Hayward Park,7,Bayshore,0,0,3,4,4,3,4,4,5,2,2
+15,Hillsdale,7,Bayshore,3,2,6,8,8,7,8,8,10,6,5
+16,Belmont,7,Bayshore,0,1,4,4,4,0,0,0,0,2,2
+17,San Carlos,7,Bayshore,0,1,4,5,5,5,6,6,6,2,3
+18,Redwood City,7,Bayshore,3,3,8,12,11,9,10,10,12,8,7
+20,Atherton,7,Bayshore,0,0,3,4,4,0,0,0,0,0,0
+21,Menlo Park,7,Bayshore,0,1,4,5,5,0,0,0,0,2,3
+22,Palo Alto,7,Bayshore,7,14,27,34,35,27,29,29,35,43,41
+24,California Ave,7,Bayshore,0,3,10,13,13,0,0,0,0,7,7
+25,San Antonio,7,Bayshore,0,1,8,10,10,8,9,9,10,5,5
+26,Mountain View,7,Bayshore,0,4,14,16,16,13,14,14,16,24,24
+27,Sunnyvale,7,Bayshore,0,4,14,16,15,14,13,13,15,24,23
+28,Lawrence,7,Bayshore,0,1,8,9,9,9,9,9,10,2,2
+30,Santa Clara,7,Bayshore,0,2,10,13,13,0,0,0,0,5,5
+31,College Park,7,Bayshore,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,7,Bayshore,3,5,17,17,16,16,17,17,20,28,28
+33,Tamien,7,Bayshore,3,0,3,4,3,3,4,4,5,11,12
+34,Capitol,7,Bayshore,0,0,0,0,0,0,0,0,0,5,7
+35,Blossom Hill,7,Bayshore,0,0,0,0,0,0,0,0,0,8,9
+36,Morgan Hill,7,Bayshore,0,0,0,0,0,0,0,0,0,5,6
+37,San Martin,7,Bayshore,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,7,Bayshore,0,0,0,0,0,0,0,0,0,5,5
+1,Transbay,8,South San Francisco,0,0,0,0,47,28,33,32,38,111,107
+2,4th and King,8,South San Francisco,9,21,39,50,30,22,27,27,33,82,80
+4,22nd St,8,South San Francisco,2,2,7,11,8,6,7,7,8,19,22
+7,Bayshore,8,South San Francisco,0,3,5,10,10,0,0,0,0,12,11
+8,South San Francisco,8,South San Francisco,0,0,0,0,0,0,0,0,0,0,0
+9,San Bruno,8,South San Francisco,0,1,3,2,2,0,0,0,0,0,0
+10,Millbrae,8,South San Francisco,0,6,9,16,14,4,6,7,8,38,40
+11,Broadway,8,South San Francisco,0,0,1,2,2,0,0,0,0,1,1
+12,Burlingame,8,South San Francisco,3,1,4,5,5,3,4,4,4,2,1
+13,San Mateo,8,South San Francisco,1,2,7,6,6,5,6,6,6,4,5
+14,Hayward Park,8,South San Francisco,0,1,3,4,5,0,0,0,0,2,2
+15,Hillsdale,8,South San Francisco,0,2,6,7,7,5,6,6,7,23,23
+16,Belmont,8,South San Francisco,2,1,4,5,5,0,0,0,0,2,3
+17,San Carlos,8,South San Francisco,0,1,4,5,5,0,0,0,0,3,3
+18,Redwood City,8,South San Francisco,4,3,9,10,10,7,8,8,9,26,26
+20,Atherton,8,South San Francisco,0,0,3,3,3,3,3,3,3,4,0
+21,Menlo Park,8,South San Francisco,0,1,4,5,6,0,0,0,0,6,9
+22,Palo Alto,8,South San Francisco,1,3,7,9,9,7,7,7,8,24,24
+24,California Ave,8,South San Francisco,0,1,4,5,6,0,0,0,0,10,10
+25,San Antonio,8,South San Francisco,0,1,4,4,4,0,0,0,0,8,8
+26,Mountain View,8,South San Francisco,1,2,6,6,6,5,6,6,7,19,19
+27,Sunnyvale,8,South San Francisco,0,2,6,6,6,0,0,0,0,19,19
+28,Lawrence,8,South San Francisco,0,1,4,4,4,3,3,3,4,9,9
+30,Santa Clara,8,South San Francisco,1,1,4,5,5,0,0,0,0,10,10
+31,College Park,8,South San Francisco,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,8,South San Francisco,4,3,7,9,9,6,7,7,7,23,23
+33,Tamien,8,South San Francisco,1,0,2,2,1,1,1,1,2,9,10
+34,Capitol,8,South San Francisco,0,0,0,0,0,0,0,0,0,5,6
+35,Blossom Hill,8,South San Francisco,0,0,0,0,0,0,0,0,0,7,8
+36,Morgan Hill,8,South San Francisco,0,0,0,0,0,0,0,0,0,2,3
+37,San Martin,8,South San Francisco,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,8,South San Francisco,0,0,0,0,0,0,0,0,0,2,3
+1,Transbay,9,San Bruno,0,0,0,0,24,27,30,30,33,30,29
+2,4th and King,9,San Bruno,7,16,27,28,25,24,28,28,32,30,30
+4,22nd St,9,San Bruno,0,2,6,7,7,6,7,7,8,6,7
+7,Bayshore,9,San Bruno,0,1,4,4,4,0,0,0,0,4,4
+8,South San Francisco,9,San Bruno,0,1,0,0,0,0,0,0,0,0,0
+9,San Bruno,9,San Bruno,0,0,0,0,0,0,0,0,0,0,0
+10,Millbrae,9,San Bruno,0,0,0,0,0,0,0,0,0,0,0
+11,Broadway,9,San Bruno,0,0,0,0,0,0,0,0,0,0,0
+12,Burlingame,9,San Bruno,0,0,3,3,3,0,0,0,0,0,0
+13,San Mateo,9,San Bruno,0,1,3,3,3,3,3,3,3,1,1
+14,Hayward Park,9,San Bruno,0,0,3,3,3,0,0,0,0,0,0
+15,Hillsdale,9,San Bruno,0,2,5,5,5,3,4,4,5,2,2
+16,Belmont,9,San Bruno,0,1,3,4,4,4,4,4,5,2,2
+17,San Carlos,9,San Bruno,0,1,4,5,5,0,0,0,0,2,3
+18,Redwood City,9,San Bruno,16,4,8,9,9,0,0,0,0,4,4
+20,Atherton,9,San Bruno,0,0,3,3,3,0,0,0,0,0,0
+21,Menlo Park,9,San Bruno,0,2,4,5,5,4,5,5,5,3,3
+22,Palo Alto,9,San Bruno,8,5,8,9,9,7,8,8,9,13,13
+24,California Ave,9,San Bruno,0,2,5,5,5,5,5,5,6,4,4
+25,San Antonio,9,San Bruno,2,1,4,4,4,0,0,0,0,2,2
+26,Mountain View,9,San Bruno,0,4,6,7,7,6,6,6,7,11,11
+27,Sunnyvale,9,San Bruno,0,4,6,7,7,6,7,7,7,11,11
+28,Lawrence,9,San Bruno,2,1,4,4,4,0,0,0,0,2,2
+30,Santa Clara,9,San Bruno,5,2,5,5,5,5,5,5,5,3,3
+31,College Park,9,San Bruno,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,9,San Bruno,6,4,8,9,9,7,8,8,8,11,11
+33,Tamien,9,San Bruno,1,1,2,2,1,1,2,2,2,4,5
+34,Capitol,9,San Bruno,0,0,0,0,0,0,0,0,0,2,3
+35,Blossom Hill,9,San Bruno,0,0,0,0,0,0,0,0,0,4,4
+36,Morgan Hill,9,San Bruno,0,0,0,0,0,0,0,0,0,2,3
+37,San Martin,9,San Bruno,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,9,San Bruno,0,0,0,0,0,0,0,0,0,2,3
+1,Transbay,10,Millbrae,0,0,0,0,31,47,48,48,51,78,76
+2,4th and King,10,Millbrae,32,31,36,47,47,60,66,66,75,95,91
+4,22nd St,10,Millbrae,0,5,10,11,11,14,15,15,19,21,24
+7,Bayshore,10,Millbrae,0,5,10,11,11,10,12,16,23,18,18
+8,South San Francisco,10,Millbrae,0,6,7,13,11,4,5,6,8,37,40
+9,San Bruno,10,Millbrae,0,0,0,0,0,0,0,0,0,0,0
+10,Millbrae,10,Millbrae,0,0,0,0,0,0,0,0,0,0,0
+11,Broadway,10,Millbrae,0,0,0,0,0,2,2,5,9,0,0
+12,Burlingame,10,Millbrae,1,6,11,15,13,9,10,11,13,4,4
+13,San Mateo,10,Millbrae,7,17,21,23,20,22,23,28,32,0,23
+14,Hayward Park,10,Millbrae,0,3,8,11,9,7,8,9,10,7,8
+15,Hillsdale,10,Millbrae,5,16,18,13,13,34,36,49,61,61,62
+16,Belmont,10,Millbrae,16,6,10,11,11,9,10,10,9,6,6
+17,San Carlos,10,Millbrae,3,8,11,12,11,10,10,10,11,0,7
+18,Redwood City,10,Millbrae,10,24,25,27,23,33,35,35,39,51,52
+20,Atherton,10,Millbrae,0,0,6,5,5,5,5,5,6,5,0
+21,Menlo Park,10,Millbrae,21,6,10,12,11,7,8,8,9,8,14
+22,Palo Alto,10,Millbrae,44,41,36,36,24,83,86,86,94,52,52
+24,California Ave,10,Millbrae,1,8,13,13,12,9,10,10,11,14,15
+25,San Antonio,10,Millbrae,5,5,8,9,9,6,7,7,7,12,12
+26,Mountain View,10,Millbrae,23,11,15,18,15,28,29,29,30,30,30
+27,Sunnyvale,10,Millbrae,33,14,15,15,15,22,23,23,24,30,30
+28,Lawrence,10,Millbrae,3,5,8,8,8,12,13,13,13,13,13
+30,Santa Clara,10,Millbrae,6,8,11,11,11,9,8,8,9,14,14
+31,College Park,10,Millbrae,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,10,Millbrae,18,16,19,16,16,24,24,23,18,27,30
+33,Tamien,10,Millbrae,1,3,3,4,3,6,7,7,9,13,15
+34,Capitol,10,Millbrae,0,0,0,0,0,0,0,0,0,6,8
+35,Blossom Hill,10,Millbrae,0,0,0,0,0,0,0,0,0,9,11
+36,Morgan Hill,10,Millbrae,0,0,0,0,0,0,0,0,0,3,4
+37,San Martin,10,Millbrae,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,10,Millbrae,0,0,0,0,0,0,0,0,0,1,2
+1,Transbay,11,Broadway,0,0,0,0,30,30,32,32,35,32,30
+2,4th and King,11,Broadway,0,0,25,30,24,23,26,26,29,26,24
+4,22nd St,11,Broadway,0,0,6,7,7,0,0,0,0,5,6
+7,Bayshore,11,Broadway,0,0,3,5,5,4,4,4,6,2,2
+8,South San Francisco,11,Broadway,0,0,1,2,2,0,0,0,0,0,1
+9,San Bruno,11,Broadway,0,0,0,0,0,0,0,0,0,0,0
+10,Millbrae,11,Broadway,0,0,0,3,3,3,3,6,9,0,0
+11,Broadway,11,Broadway,0,0,0,0,0,0,0,0,0,0,0
+12,Burlingame,11,Broadway,0,0,0,2,2,0,0,0,0,0,0
+13,San Mateo,11,Broadway,0,0,3,6,6,0,0,0,0,0,0
+14,Hayward Park,11,Broadway,0,0,4,5,5,1,2,2,2,1,1
+15,Hillsdale,11,Broadway,0,0,6,7,7,5,7,7,8,4,4
+16,Belmont,11,Broadway,0,0,5,6,6,0,0,0,0,0,3
+17,San Carlos,11,Broadway,0,0,6,6,6,6,6,6,7,3,3
+18,Redwood City,11,Broadway,0,0,12,13,12,12,13,13,14,9,9
+20,Atherton,11,Broadway,0,0,4,4,4,0,0,0,0,0,0
+21,Menlo Park,11,Broadway,0,0,5,7,7,0,0,0,0,4,4
+22,Palo Alto,11,Broadway,0,0,10,11,11,10,11,11,12,12,12
+24,California Ave,11,Broadway,0,0,6,7,7,0,0,0,0,4,4
+25,San Antonio,11,Broadway,0,0,5,5,6,4,4,4,5,3,3
+26,Mountain View,11,Broadway,0,0,8,9,9,8,8,8,9,8,8
+27,Sunnyvale,11,Broadway,0,0,8,9,9,8,9,9,9,8,8
+28,Lawrence,11,Broadway,0,0,5,5,5,5,5,5,6,2,2
+30,Santa Clara,11,Broadway,0,0,6,7,7,0,0,0,0,3,3
+31,College Park,11,Broadway,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,11,Broadway,0,0,10,10,10,9,9,9,10,10,10
+33,Tamien,11,Broadway,0,0,2,2,2,2,2,2,3,4,4
+34,Capitol,11,Broadway,0,0,0,0,0,0,0,0,0,1,2
+35,Blossom Hill,11,Broadway,0,0,0,0,0,0,0,0,0,2,3
+36,Morgan Hill,11,Broadway,0,0,0,0,0,0,0,0,0,1,2
+37,San Martin,11,Broadway,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,11,Broadway,0,0,0,0,0,0,0,0,0,1,2
+1,Transbay,12,Burlingame,0,0,0,0,36,36,38,38,41,37,36
+2,4th and King,12,Burlingame,8,27,35,38,27,25,28,28,31,27,27
+4,22nd St,12,Burlingame,3,3,6,7,8,7,8,8,9,5,6
+7,Bayshore,12,Burlingame,0,1,4,6,6,0,0,0,0,4,4
+8,South San Francisco,12,Burlingame,2,1,3,3,3,3,4,4,4,2,2
+9,San Bruno,12,Burlingame,0,0,1,2,2,0,0,0,0,0,0
+10,Millbrae,12,Burlingame,5,4,8,10,9,8,9,10,12,5,5
+11,Broadway,12,Burlingame,0,0,0,0,0,0,0,0,0,0,0
+12,Burlingame,12,Burlingame,0,0,0,0,0,0,0,0,0,0,0
+13,San Mateo,12,Burlingame,2,0,0,0,0,3,4,4,4,0,2
+14,Hayward Park,12,Burlingame,0,0,0,2,2,0,0,0,0,0,2
+15,Hillsdale,12,Burlingame,8,3,5,7,7,7,7,7,8,5,5
+16,Belmont,12,Burlingame,0,3,5,6,6,0,0,0,0,4,4
+17,San Carlos,12,Burlingame,5,3,6,7,7,0,0,0,0,0,4
+18,Redwood City,12,Burlingame,4,11,12,15,15,14,15,15,17,11,11
+20,Atherton,12,Burlingame,0,0,3,4,4,3,4,4,4,1,1
+21,Menlo Park,12,Burlingame,7,3,5,7,7,0,0,0,0,0,0
+22,Palo Alto,12,Burlingame,17,8,10,11,12,12,12,12,14,13,13
+24,California Ave,12,Burlingame,0,4,6,7,7,0,0,0,0,5,5
+25,San Antonio,12,Burlingame,0,2,5,5,6,0,0,0,0,3,3
+26,Mountain View,12,Burlingame,5,5,7,8,9,8,8,8,9,8,8
+27,Sunnyvale,12,Burlingame,0,4,7,8,9,0,0,0,0,9,9
+28,Lawrence,12,Burlingame,0,2,5,6,6,5,5,5,6,2,2
+30,Santa Clara,12,Burlingame,0,4,6,7,7,0,0,0,0,4,4
+31,College Park,12,Burlingame,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,12,Burlingame,8,7,9,10,10,9,11,11,10,10,10
+33,Tamien,12,Burlingame,1,2,2,2,2,2,2,2,3,4,4
+34,Capitol,12,Burlingame,0,0,0,0,0,0,0,0,0,1,2
+35,Blossom Hill,12,Burlingame,0,0,0,0,0,0,0,0,0,3,3
+36,Morgan Hill,12,Burlingame,0,0,0,0,0,0,0,0,0,1,2
+37,San Martin,12,Burlingame,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,12,Burlingame,0,0,0,0,0,0,0,0,0,1,2
+1,Transbay,13,San Mateo,0,0,0,0,45,58,60,60,64,48,53
+2,4th and King,13,San Mateo,34,39,50,50,35,38,42,42,44,34,35
+4,22nd St,13,San Mateo,3,3,10,11,10,12,13,13,14,7,8
+7,Bayshore,13,San Mateo,8,2,6,7,7,0,0,0,0,4,6
+8,South San Francisco,13,San Mateo,0,2,5,6,6,5,6,6,6,4,5
+9,San Bruno,13,San Mateo,7,1,4,4,4,3,3,3,4,0,1
+10,Millbrae,13,San Mateo,8,19,20,22,21,23,24,29,32,0,23
+11,Broadway,13,San Mateo,0,0,0,3,3,0,0,0,0,0,0
+12,Burlingame,13,San Mateo,5,0,0,3,3,3,4,4,4,0,0
+13,San Mateo,13,San Mateo,0,0,0,0,0,0,0,0,0,0,0
+14,Hayward Park,13,San Mateo,0,0,0,0,0,0,0,0,0,0,0
+15,Hillsdale,13,San Mateo,0,1,2,3,3,7,8,8,9,3,2
+16,Belmont,13,San Mateo,0,2,5,6,6,7,8,8,8,0,4
+17,San Carlos,13,San Mateo,4,4,6,9,8,0,0,0,0,5,5
+18,Redwood City,13,San Mateo,14,13,17,21,21,21,22,22,23,18,18
+20,Atherton,13,San Mateo,0,0,3,3,3,3,3,3,3,0,0
+21,Menlo Park,13,San Mateo,0,3,5,7,8,6,6,6,7,5,5
+22,Palo Alto,13,San Mateo,18,12,16,16,16,21,22,22,24,17,22
+24,California Ave,13,San Mateo,5,4,8,9,8,7,7,7,8,5,5
+25,San Antonio,13,San Mateo,0,2,5,5,6,0,0,0,0,3,3
+26,Mountain View,13,San Mateo,0,7,10,11,11,15,15,15,16,9,15
+27,Sunnyvale,13,San Mateo,13,7,10,10,10,10,9,9,10,11,15
+28,Lawrence,13,San Mateo,0,2,5,6,6,5,5,5,6,2,2
+30,Santa Clara,13,San Mateo,2,4,8,9,8,6,7,7,7,4,4
+31,College Park,13,San Mateo,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,13,San Mateo,8,9,12,13,13,18,18,18,19,12,17
+33,Tamien,13,San Mateo,1,2,2,2,2,4,4,4,5,4,7
+34,Capitol,13,San Mateo,0,0,0,0,0,0,0,0,0,1,3
+35,Blossom Hill,13,San Mateo,0,0,0,0,0,0,0,0,0,2,5
+36,Morgan Hill,13,San Mateo,0,0,0,0,0,0,0,0,0,1,3
+37,San Martin,13,San Mateo,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,13,San Mateo,0,0,0,0,0,0,0,0,0,1,3
+1,Transbay,14,Hayward Park,0,0,0,0,29,30,33,33,37,33,32
+2,4th and King,14,Hayward Park,10,12,21,29,22,21,23,23,27,22,22
+4,22nd St,14,Hayward Park,5,2,6,7,8,0,0,0,0,5,5
+7,Bayshore,14,Hayward Park,8,0,4,5,5,4,5,5,6,2,2
+8,South San Francisco,14,Hayward Park,0,1,3,5,5,0,0,0,0,2,2
+9,San Bruno,14,Hayward Park,0,0,4,4,4,0,0,0,0,0,1
+10,Millbrae,14,Hayward Park,7,4,9,12,10,9,9,10,13,8,9
+11,Broadway,14,Hayward Park,0,0,3,4,4,3,3,3,4,1,1
+12,Burlingame,14,Hayward Park,0,0,3,5,5,0,0,0,0,0,2
+13,San Mateo,14,Hayward Park,1,0,0,0,0,0,0,0,0,0,0
+14,Hayward Park,14,Hayward Park,0,0,0,0,0,0,0,0,0,0,0
+15,Hillsdale,14,Hayward Park,0,0,0,0,0,0,0,0,2,0,0
+16,Belmont,14,Hayward Park,0,0,2,3,3,0,0,0,0,1,2
+17,San Carlos,14,Hayward Park,3,1,4,5,5,5,6,6,6,1,3
+18,Redwood City,14,Hayward Park,1,5,9,13,13,12,14,14,16,10,10
+20,Atherton,14,Hayward Park,0,0,2,3,3,0,0,0,0,0,0
+21,Menlo Park,14,Hayward Park,0,2,5,6,6,0,0,0,0,3,4
+22,Palo Alto,14,Hayward Park,3,5,9,11,11,11,11,11,13,16,16
+24,California Ave,14,Hayward Park,0,2,6,7,7,0,0,0,0,4,4
+25,San Antonio,14,Hayward Park,1,1,5,5,5,4,4,4,5,2,2
+26,Mountain View,14,Hayward Park,0,3,7,8,9,7,7,7,8,12,12
+27,Sunnyvale,14,Hayward Park,0,3,7,8,8,7,8,8,8,12,12
+28,Lawrence,14,Hayward Park,0,1,5,5,5,5,5,5,5,2,2
+30,Santa Clara,14,Hayward Park,0,2,6,7,7,0,0,0,0,3,3
+31,College Park,14,Hayward Park,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,14,Hayward Park,0,5,9,9,9,8,8,8,9,13,13
+33,Tamien,14,Hayward Park,1,0,2,2,2,2,2,2,2,6,6
+34,Capitol,14,Hayward Park,0,0,0,0,0,0,0,0,0,3,3
+35,Blossom Hill,14,Hayward Park,0,0,0,0,0,0,0,0,0,4,5
+36,Morgan Hill,14,Hayward Park,0,0,0,0,0,0,0,0,0,2,3
+37,San Martin,14,Hayward Park,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,14,Hayward Park,0,0,0,0,0,0,0,0,0,2,3
+1,Transbay,15,Hillsdale,0,0,0,0,52,83,86,86,93,143,135
+2,4th and King,15,Hillsdale,30,40,56,50,35,51,54,54,61,84,80
+4,22nd St,15,Hillsdale,3,3,9,11,9,12,13,13,15,18,20
+7,Bayshore,15,Hillsdale,7,3,7,8,8,7,8,8,9,6,5
+8,South San Francisco,15,Hillsdale,1,3,6,7,7,5,6,6,8,24,23
+9,San Bruno,15,Hillsdale,6,3,6,6,6,4,5,5,6,2,2
+10,Millbrae,15,Hillsdale,0,18,19,15,15,36,38,51,61,62,63
+11,Broadway,15,Hillsdale,0,0,5,7,7,5,6,6,8,4,4
+12,Burlingame,15,Hillsdale,8,4,7,8,8,7,8,8,9,5,5
+13,San Mateo,15,Hillsdale,0,1,3,6,6,8,9,9,10,3,4
+14,Hayward Park,15,Hillsdale,0,0,0,0,0,0,0,0,0,0,0
+15,Hillsdale,15,Hillsdale,0,0,0,0,0,0,0,0,0,0,0
+16,Belmont,15,Hillsdale,0,0,0,0,0,0,0,0,0,0,0
+17,San Carlos,15,Hillsdale,5,0,1,1,1,0,0,0,0,0,0
+18,Redwood City,15,Hillsdale,8,9,12,21,19,24,26,26,30,56,49
+20,Atherton,15,Hillsdale,0,0,2,2,2,1,1,1,2,2,0
+21,Menlo Park,15,Hillsdale,0,3,6,7,7,5,5,5,6,7,11
+22,Palo Alto,15,Hillsdale,25,14,17,17,16,25,27,27,30,47,47
+24,California Ave,15,Hillsdale,0,4,7,8,8,7,8,8,8,12,12
+25,San Antonio,15,Hillsdale,1,3,6,6,7,4,4,4,5,11,9
+26,Mountain View,15,Hillsdale,5,8,10,12,11,21,22,22,21,28,28
+27,Sunnyvale,15,Hillsdale,8,8,10,10,10,15,16,16,17,26,26
+28,Lawrence,15,Hillsdale,6,3,5,6,6,10,10,10,11,11,11
+30,Santa Clara,15,Hillsdale,3,4,7,9,9,7,6,6,8,12,12
+31,College Park,15,Hillsdale,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,15,Hillsdale,7,10,14,16,15,29,30,30,31,39,37
+33,Tamien,15,Hillsdale,1,3,3,3,2,6,6,6,8,12,13
+34,Capitol,15,Hillsdale,0,0,0,0,0,0,0,0,0,6,7
+35,Blossom Hill,15,Hillsdale,0,0,0,0,0,0,0,0,0,8,10
+36,Morgan Hill,15,Hillsdale,0,0,0,0,0,0,0,0,0,2,3
+37,San Martin,15,Hillsdale,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,15,Hillsdale,0,0,0,0,0,0,0,0,0,2,3
+1,Transbay,16,Belmont,0,0,0,0,26,25,28,28,30,26,28
+2,4th and King,16,Belmont,12,16,24,25,21,18,19,19,22,19,20
+4,22nd St,16,Belmont,0,2,6,7,7,6,7,7,8,4,5
+7,Bayshore,16,Belmont,0,1,4,5,5,0,0,0,0,2,2
+8,South San Francisco,16,Belmont,1,1,4,5,5,0,0,0,0,2,3
+9,San Bruno,16,Belmont,0,2,4,5,5,5,5,5,6,2,2
+10,Millbrae,16,Belmont,6,7,10,11,11,9,10,10,10,6,6
+11,Broadway,16,Belmont,0,0,5,6,6,0,0,0,0,0,3
+12,Burlingame,16,Belmont,3,3,6,6,6,0,0,0,0,4,4
+13,San Mateo,16,Belmont,2,2,5,6,6,8,8,8,9,0,4
+14,Hayward Park,16,Belmont,0,0,0,1,1,0,0,0,0,1,1
+15,Hillsdale,16,Belmont,5,0,0,0,0,0,0,0,0,0,0
+16,Belmont,16,Belmont,0,0,0,0,0,0,0,0,0,0,0
+17,San Carlos,16,Belmont,0,0,0,0,0,0,0,0,0,0,0
+18,Redwood City,16,Belmont,0,3,5,6,6,0,0,0,0,2,3
+20,Atherton,16,Belmont,0,0,0,1,1,0,0,0,0,0,0
+21,Menlo Park,16,Belmont,0,2,4,4,4,2,2,2,3,0,2
+22,Palo Alto,16,Belmont,20,8,10,10,10,9,10,10,11,10,14
+24,California Ave,16,Belmont,3,3,5,6,6,5,5,5,6,4,4
+25,San Antonio,16,Belmont,0,2,5,5,5,0,0,0,0,2,2
+26,Mountain View,16,Belmont,4,5,7,8,8,7,7,7,8,6,11
+27,Sunnyvale,16,Belmont,0,5,7,8,8,8,8,8,9,7,12
+28,Lawrence,16,Belmont,0,2,4,5,5,0,0,0,0,1,1
+30,Santa Clara,16,Belmont,0,3,6,6,6,6,6,6,6,3,3
+31,College Park,16,Belmont,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,16,Belmont,4,7,10,10,10,10,10,10,12,12,17
+33,Tamien,16,Belmont,1,2,2,2,2,2,2,2,2,3,6
+34,Capitol,16,Belmont,0,0,0,0,0,0,0,0,0,1,3
+35,Blossom Hill,16,Belmont,0,0,0,0,0,0,0,0,0,2,5
+36,Morgan Hill,16,Belmont,0,0,0,0,0,0,0,0,0,1,3
+37,San Martin,16,Belmont,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,16,Belmont,0,0,0,0,0,0,0,0,0,1,3
+1,Transbay,17,San Carlos,0,0,0,0,30,24,25,25,28,24,30
+2,4th and King,17,San Carlos,12,18,25,28,23,19,22,22,23,20,21
+4,22nd St,17,San Carlos,4,2,6,7,8,0,0,0,0,5,5
+7,Bayshore,17,San Carlos,0,1,5,6,6,5,5,5,6,2,3
+8,South San Francisco,17,San Carlos,4,1,4,5,5,0,0,0,0,2,3
+9,San Bruno,17,San Carlos,0,2,5,6,6,0,0,0,0,2,3
+10,Millbrae,17,San Carlos,12,8,12,13,11,10,10,10,11,0,7
+11,Broadway,17,San Carlos,0,0,6,6,6,6,6,6,7,3,3
+12,Burlingame,17,San Carlos,5,4,6,7,7,0,0,0,0,0,4
+13,San Mateo,17,San Carlos,5,4,6,10,9,0,0,0,0,5,5
+14,Hayward Park,17,San Carlos,0,1,4,5,5,4,4,4,5,1,2
+15,Hillsdale,17,San Carlos,1,0,1,1,1,0,0,0,0,0,0
+16,Belmont,17,San Carlos,0,0,0,0,0,0,0,0,0,0,0
+17,San Carlos,17,San Carlos,0,0,0,0,0,0,0,0,0,0,0
+18,Redwood City,17,San Carlos,1,0,0,4,4,5,7,7,8,3,0
+20,Atherton,17,San Carlos,0,0,0,0,0,0,0,0,0,0,0
+21,Menlo Park,17,San Carlos,0,0,3,4,4,0,0,0,0,2,1
+22,Palo Alto,17,San Carlos,10,6,10,10,10,8,9,9,10,9,14
+24,California Ave,17,San Carlos,0,3,5,6,6,0,0,0,0,4,4
+25,San Antonio,17,San Carlos,0,2,5,5,5,4,4,4,5,2,2
+26,Mountain View,17,San Carlos,1,5,8,9,9,7,8,8,8,6,12
+27,Sunnyvale,17,San Carlos,0,5,8,9,9,8,8,8,9,8,13
+28,Lawrence,17,San Carlos,4,2,4,5,5,5,5,5,5,2,2
+30,Santa Clara,17,San Carlos,0,3,6,7,7,0,0,0,0,3,3
+31,College Park,17,San Carlos,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,17,San Carlos,6,7,10,12,12,10,10,12,15,14,20
+33,Tamien,17,San Carlos,1,2,2,2,2,2,2,2,2,3,6
+34,Capitol,17,San Carlos,0,0,0,0,0,0,0,0,0,1,3
+35,Blossom Hill,17,San Carlos,0,0,0,0,0,0,0,0,0,2,5
+36,Morgan Hill,17,San Carlos,0,0,0,0,0,0,0,0,0,1,3
+37,San Martin,17,San Carlos,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,17,San Carlos,0,0,0,0,0,0,0,0,0,1,3
+1,Transbay,18,Redwood City,0,0,0,0,60,72,74,74,80,126,123
+2,4th and King,18,Redwood City,74,48,60,64,47,55,57,57,64,86,85
+4,22nd St,18,Redwood City,0,7,14,16,14,14,15,15,17,22,24
+7,Bayshore,18,Redwood City,0,3,8,12,12,10,12,12,12,9,9
+8,South San Francisco,18,Redwood City,6,5,8,11,10,8,9,9,10,28,28
+9,San Bruno,18,Redwood City,8,7,10,11,10,0,0,0,0,6,6
+10,Millbrae,18,Redwood City,31,28,30,31,26,37,38,38,42,55,54
+11,Broadway,18,Redwood City,0,0,11,13,13,13,14,14,15,9,9
+12,Burlingame,18,Redwood City,4,13,14,17,17,16,17,17,19,14,13
+13,San Mateo,18,Redwood City,14,15,18,23,22,22,23,23,25,19,20
+14,Hayward Park,18,Redwood City,0,7,10,13,13,12,13,13,15,10,10
+15,Hillsdale,18,Redwood City,21,13,13,21,21,26,28,28,32,58,51
+16,Belmont,18,Redwood City,4,3,7,8,8,0,0,0,0,6,6
+17,San Carlos,18,Redwood City,0,0,0,4,4,5,8,8,9,8,7
+18,Redwood City,18,Redwood City,0,0,0,0,0,0,0,0,0,0,0
+20,Atherton,18,Redwood City,0,0,0,0,0,0,0,0,0,0,0
+21,Menlo Park,18,Redwood City,0,0,4,7,5,0,0,0,0,6,6
+22,Palo Alto,18,Redwood City,25,29,30,37,35,42,46,46,56,87,88
+24,California Ave,18,Redwood City,7,8,11,13,13,0,0,0,0,8,8
+25,San Antonio,18,Redwood City,5,7,10,11,10,8,9,9,10,8,8
+26,Mountain View,18,Redwood City,17,16,20,21,21,22,23,23,25,44,44
+27,Sunnyvale,18,Redwood City,7,16,18,20,20,16,17,17,20,41,41
+28,Lawrence,18,Redwood City,5,5,8,9,9,14,15,15,16,6,6
+30,Santa Clara,18,Redwood City,3,8,13,15,14,0,0,0,0,7,7
+31,College Park,18,Redwood City,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,18,Redwood City,13,23,24,25,24,35,38,42,51,67,68
+33,Tamien,18,Redwood City,1,3,3,4,3,6,7,7,9,16,17
+34,Capitol,18,Redwood City,0,0,0,0,0,0,0,0,0,6,8
+35,Blossom Hill,18,Redwood City,0,0,0,0,0,0,0,0,0,9,11
+36,Morgan Hill,18,Redwood City,0,0,0,0,0,0,0,0,0,3,4
+37,San Martin,18,Redwood City,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,18,Redwood City,0,0,0,0,0,0,0,0,0,3,3
+1,Transbay,20,Atherton,0,0,0,0,14,13,14,14,15,15,11
+2,4th and King,20,Atherton,0,0,10,13,11,11,11,11,13,12,8
+4,22nd St,20,Atherton,0,0,4,4,4,4,4,4,5,4,2
+7,Bayshore,20,Atherton,0,0,3,3,3,0,0,0,0,0,0
+8,South San Francisco,20,Atherton,0,0,3,3,3,3,3,3,3,3,0
+9,San Bruno,20,Atherton,0,0,3,4,4,0,0,0,0,0,0
+10,Millbrae,20,Atherton,0,0,6,6,6,5,5,5,6,5,0
+11,Broadway,20,Atherton,0,0,4,4,4,0,0,0,0,0,0
+12,Burlingame,20,Atherton,0,0,4,4,4,3,4,4,4,1,1
+13,San Mateo,20,Atherton,0,0,3,3,3,3,3,3,3,0,0
+14,Hayward Park,20,Atherton,0,0,2,2,2,0,0,0,0,0,0
+15,Hillsdale,20,Atherton,0,0,1,2,2,1,1,1,2,0,0
+16,Belmont,20,Atherton,0,0,0,1,1,0,0,0,0,0,0
+17,San Carlos,20,Atherton,0,0,0,0,0,0,0,0,0,0,0
+18,Redwood City,20,Atherton,0,0,0,0,0,0,0,0,0,0,0
+20,Atherton,20,Atherton,0,0,0,0,0,0,0,0,0,0,0
+21,Menlo Park,20,Atherton,0,0,0,0,0,0,0,0,0,0,0
+22,Palo Alto,20,Atherton,0,0,0,1,1,0,0,0,0,0,0
+24,California Ave,20,Atherton,0,0,2,3,3,0,0,0,0,0,0
+25,San Antonio,20,Atherton,0,0,2,3,3,0,0,0,0,0,0
+26,Mountain View,20,Atherton,0,0,5,6,6,4,4,4,4,1,0
+27,Sunnyvale,20,Atherton,0,0,5,6,6,0,0,0,0,1,1
+28,Lawrence,20,Atherton,0,0,3,3,3,2,2,2,3,0,0
+30,Santa Clara,20,Atherton,0,0,4,4,4,0,0,0,0,1,1
+31,College Park,20,Atherton,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,20,Atherton,0,0,6,7,7,6,7,8,9,4,4
+33,Tamien,20,Atherton,0,0,1,1,1,2,2,2,2,1,1
+34,Capitol,20,Atherton,0,0,0,0,0,0,0,0,0,1,0
+35,Blossom Hill,20,Atherton,0,0,0,0,0,0,0,0,0,2,0
+36,Morgan Hill,20,Atherton,0,0,0,0,0,0,0,0,0,1,0
+37,San Martin,20,Atherton,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,20,Atherton,0,0,0,0,0,0,0,0,0,1,0
+1,Transbay,21,Menlo Park,0,0,0,0,31,26,29,29,31,32,35
+2,4th and King,21,Menlo Park,40,16,23,28,23,20,22,22,25,26,30
+4,22nd St,21,Menlo Park,0,2,6,7,8,7,8,8,8,7,10
+7,Bayshore,21,Menlo Park,0,1,5,6,6,0,0,0,0,2,3
+8,South San Francisco,21,Menlo Park,0,1,4,5,6,0,0,0,0,5,9
+9,San Bruno,21,Menlo Park,2,3,6,6,6,6,6,6,7,3,4
+10,Millbrae,21,Menlo Park,16,7,11,13,10,8,9,9,10,8,13
+11,Broadway,21,Menlo Park,0,0,6,7,7,0,0,0,0,4,4
+12,Burlingame,21,Menlo Park,3,4,6,7,7,0,0,0,0,0,0
+13,San Mateo,21,Menlo Park,0,4,7,8,8,7,7,7,8,5,5
+14,Hayward Park,21,Menlo Park,0,2,4,5,6,0,0,0,0,4,4
+15,Hillsdale,21,Menlo Park,6,3,6,7,7,5,5,5,6,6,11
+16,Belmont,21,Menlo Park,0,1,4,5,5,2,2,2,3,0,2
+17,San Carlos,21,Menlo Park,0,0,3,4,4,0,0,0,0,3,1
+18,Redwood City,21,Menlo Park,6,0,4,6,5,0,0,0,0,1,1
+20,Atherton,21,Menlo Park,0,0,0,0,0,0,0,0,0,0,0
+21,Menlo Park,21,Menlo Park,0,0,0,0,0,0,0,0,0,0,0
+22,Palo Alto,21,Menlo Park,4,0,0,6,6,10,12,12,15,10,11
+24,California Ave,21,Menlo Park,0,3,4,4,4,5,6,6,7,4,4
+25,San Antonio,21,Menlo Park,1,2,5,5,6,0,0,0,0,3,4
+26,Mountain View,21,Menlo Park,12,6,9,10,10,9,10,10,11,6,7
+27,Sunnyvale,21,Menlo Park,7,6,9,10,10,9,10,10,12,7,7
+28,Lawrence,21,Menlo Park,0,2,5,6,6,0,0,0,0,3,3
+30,Santa Clara,21,Menlo Park,3,4,7,8,8,7,7,7,8,4,5
+31,College Park,21,Menlo Park,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,21,Menlo Park,14,9,11,15,15,13,13,15,20,15,16
+33,Tamien,21,Menlo Park,1,2,2,3,2,2,2,2,3,2,2
+34,Capitol,21,Menlo Park,0,0,0,0,0,0,0,0,0,1,3
+35,Blossom Hill,21,Menlo Park,0,0,0,0,0,0,0,0,0,3,5
+36,Morgan Hill,21,Menlo Park,0,0,0,0,0,0,0,0,0,1,3
+37,San Martin,21,Menlo Park,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,21,Menlo Park,0,0,0,0,0,0,0,0,0,2,3
+1,Transbay,22,Palo Alto,0,0,0,0,234,183,188,188,198,440,433
+2,4th and King,22,Palo Alto,142,178,245,216,125,141,148,148,160,219,216
+4,22nd St,22,Palo Alto,22,23,47,50,40,41,44,44,49,61,69
+7,Bayshore,22,Palo Alto,0,23,35,45,42,32,34,34,42,51,48
+8,South San Francisco,22,Palo Alto,0,4,8,10,9,8,8,8,9,26,26
+9,San Bruno,22,Palo Alto,12,9,12,12,12,10,11,11,12,16,16
+10,Millbrae,22,Palo Alto,55,61,48,48,32,103,105,105,112,60,60
+11,Broadway,22,Palo Alto,0,0,12,13,13,12,13,13,14,13,13
+12,Burlingame,22,Palo Alto,10,13,15,16,15,15,16,16,17,15,15
+13,San Mateo,22,Palo Alto,14,17,21,20,20,25,26,26,28,20,24
+14,Hayward Park,22,Palo Alto,5,6,11,13,13,13,13,13,15,19,19
+15,Hillsdale,22,Palo Alto,9,21,23,23,20,30,32,32,35,52,52
+16,Belmont,22,Palo Alto,18,12,12,13,13,10,11,11,12,13,17
+17,San Carlos,22,Palo Alto,3,9,12,12,12,9,10,10,11,12,16
+18,Redwood City,22,Palo Alto,31,36,35,43,40,49,52,52,61,93,94
+20,Atherton,22,Palo Alto,0,0,1,2,2,1,1,1,2,0,0
+21,Menlo Park,22,Palo Alto,0,3,0,7,7,12,14,14,17,11,11
+22,Palo Alto,22,Palo Alto,0,0,0,0,0,0,0,0,0,0,0
+24,California Ave,22,Palo Alto,4,4,4,4,5,3,5,5,6,2,2
+25,San Antonio,22,Palo Alto,10,10,15,11,12,8,9,9,10,9,9
+26,Mountain View,22,Palo Alto,38,32,35,36,34,56,57,57,64,69,69
+27,Sunnyvale,22,Palo Alto,34,28,34,35,34,37,40,40,47,68,64
+28,Lawrence,22,Palo Alto,21,10,15,17,17,22,24,24,29,16,16
+30,Santa Clara,22,Palo Alto,27,14,18,17,17,12,13,13,14,9,9
+31,College Park,22,Palo Alto,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,22,Palo Alto,32,58,70,77,68,91,99,114,158,185,179
+33,Tamien,22,Palo Alto,1,4,6,8,6,10,12,12,18,29,30
+34,Capitol,22,Palo Alto,0,0,0,0,0,0,0,0,0,7,9
+35,Blossom Hill,22,Palo Alto,0,0,0,0,0,0,0,0,0,11,12
+36,Morgan Hill,22,Palo Alto,0,0,0,0,0,0,0,0,0,4,5
+37,San Martin,22,Palo Alto,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,22,Palo Alto,0,0,0,0,0,0,0,0,0,3,4
+1,Transbay,24,California Ave,0,0,0,0,81,71,74,74,81,88,86
+2,4th and King,24,California Ave,39,48,62,73,59,53,57,57,63,76,73
+4,22nd St,24,California Ave,12,7,19,21,19,20,21,21,24,23,26
+7,Bayshore,24,California Ave,0,4,13,15,15,0,0,0,0,9,9
+8,South San Francisco,24,California Ave,0,2,5,6,6,0,0,0,0,11,11
+9,San Bruno,24,California Ave,0,4,7,7,7,7,7,7,8,4,4
+10,Millbrae,24,California Ave,15,11,15,16,14,10,11,11,12,17,17
+11,Broadway,24,California Ave,0,0,7,8,8,0,0,0,0,5,5
+12,Burlingame,24,California Ave,1,5,8,8,8,0,0,0,0,6,6
+13,San Mateo,24,California Ave,6,6,9,10,9,8,9,9,9,6,6
+14,Hayward Park,24,California Ave,0,2,6,7,7,0,0,0,0,5,5
+15,Hillsdale,24,California Ave,7,5,8,9,9,8,9,9,9,13,13
+16,Belmont,24,California Ave,0,4,6,7,7,6,6,6,7,4,4
+17,San Carlos,24,California Ave,3,4,6,7,7,0,0,0,0,5,4
+18,Redwood City,24,California Ave,10,9,12,14,14,0,0,0,0,9,7
+20,Atherton,24,California Ave,0,0,3,4,4,0,0,0,0,1,0
+21,Menlo Park,24,California Ave,0,3,5,5,5,5,6,6,7,6,4
+22,Palo Alto,24,California Ave,0,2,3,4,4,4,5,5,6,7,0
+24,California Ave,24,California Ave,0,0,0,0,0,0,0,0,0,0,0
+25,San Antonio,24,California Ave,0,0,2,2,2,0,0,0,0,0,0
+26,Mountain View,24,California Ave,10,6,9,11,11,8,8,8,9,4,5
+27,Sunnyvale,24,California Ave,0,6,9,11,11,10,11,11,13,7,6
+28,Lawrence,24,California Ave,0,2,5,6,6,0,0,0,0,4,4
+30,Santa Clara,24,California Ave,6,4,7,8,8,6,7,7,8,5,5
+31,College Park,24,California Ave,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,24,California Ave,16,10,15,19,18,14,14,16,22,17,17
+33,Tamien,24,California Ave,1,2,3,3,3,2,3,3,3,2,2
+34,Capitol,24,California Ave,0,0,0,0,0,0,0,0,0,3,3
+35,Blossom Hill,24,California Ave,0,0,0,0,0,0,0,0,0,5,5
+36,Morgan Hill,24,California Ave,0,0,0,0,0,0,0,0,0,3,4
+37,San Martin,24,California Ave,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,24,California Ave,0,0,0,0,0,0,0,0,0,3,3
+1,Transbay,25,San Antonio,0,0,0,0,50,43,48,48,54,65,63
+2,4th and King,25,San Antonio,34,22,41,46,37,31,34,34,39,51,51
+4,22nd St,25,San Antonio,0,2,11,12,12,0,0,0,0,16,18
+7,Bayshore,25,San Antonio,0,1,8,9,9,7,8,8,9,5,5
+8,South San Francisco,25,San Antonio,0,0,3,4,4,0,0,0,0,8,8
+9,San Bruno,25,San Antonio,0,1,4,4,5,0,0,0,0,2,2
+10,Millbrae,25,San Antonio,0,4,8,9,8,7,7,7,7,11,11
+11,Broadway,25,San Antonio,0,0,4,4,5,4,4,4,5,3,3
+12,Burlingame,25,San Antonio,0,2,4,5,5,0,0,0,0,3,3
+13,San Mateo,25,San Antonio,0,2,5,5,5,0,0,0,0,3,3
+14,Hayward Park,25,San Antonio,0,1,3,4,5,3,3,3,4,3,2
+15,Hillsdale,25,San Antonio,0,2,5,6,6,5,6,6,7,10,9
+16,Belmont,25,San Antonio,0,1,4,4,5,0,0,0,0,2,2
+17,San Carlos,25,San Antonio,2,1,4,4,5,4,4,4,4,3,2
+18,Redwood City,25,San Antonio,0,4,8,9,9,7,8,8,10,7,6
+20,Atherton,25,San Antonio,0,0,2,3,3,0,0,0,0,0,0
+21,Menlo Park,25,San Antonio,3,1,3,4,5,0,0,0,0,4,3
+22,Palo Alto,25,San Antonio,7,5,10,9,9,8,8,8,10,9,7
+24,California Ave,25,San Antonio,0,0,0,0,0,0,0,0,0,0,0
+25,San Antonio,25,San Antonio,0,0,0,0,0,0,0,0,0,0,0
+26,Mountain View,25,San Antonio,3,0,1,0,0,1,2,2,2,0,0
+27,Sunnyvale,25,San Antonio,0,2,5,5,5,5,6,6,8,4,5
+28,Lawrence,25,San Antonio,3,0,1,2,2,2,3,3,4,1,1
+30,Santa Clara,25,San Antonio,0,1,4,4,5,0,0,0,0,2,2
+31,College Park,25,San Antonio,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,25,San Antonio,7,5,10,9,9,8,9,11,15,14,13
+33,Tamien,25,San Antonio,2,1,1,2,1,1,2,2,2,2,2
+34,Capitol,25,San Antonio,0,0,0,0,0,0,0,0,0,2,3
+35,Blossom Hill,25,San Antonio,0,0,0,0,0,0,0,0,0,3,4
+36,Morgan Hill,25,San Antonio,0,0,0,0,0,0,0,0,0,2,2
+37,San Martin,25,San Antonio,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,25,San Antonio,0,0,0,0,0,0,0,0,0,2,2
+1,Transbay,26,Mountain View,0,0,0,0,89,108,112,112,121,173,170
+2,4th and King,26,Mountain View,67,65,86,88,63,81,86,86,93,120,117
+4,22nd St,26,Mountain View,15,8,20,21,21,25,26,26,28,36,40
+7,Bayshore,26,Mountain View,0,5,14,16,16,14,15,15,16,26,25
+8,South San Francisco,26,Mountain View,7,2,5,5,6,5,5,5,6,19,19
+9,San Bruno,26,Mountain View,3,5,7,8,7,6,6,6,7,11,11
+10,Millbrae,26,Mountain View,23,14,16,17,15,28,29,29,29,31,31
+11,Broadway,26,Mountain View,0,0,8,9,9,7,7,7,8,8,8
+12,Burlingame,26,Mountain View,6,6,9,9,9,8,8,8,9,9,9
+13,San Mateo,26,Mountain View,6,7,10,11,10,15,15,15,16,10,14
+14,Hayward Park,26,Mountain View,0,2,5,6,6,6,6,6,7,11,11
+15,Hillsdale,26,Mountain View,3,8,10,11,11,20,21,21,21,28,28
+16,Belmont,26,Mountain View,0,5,7,8,7,6,6,6,7,7,11
+17,San Carlos,26,Mountain View,0,5,8,9,9,6,7,7,7,8,12
+18,Redwood City,26,Mountain View,14,14,17,19,18,21,22,22,23,42,41
+20,Atherton,26,Mountain View,0,0,4,5,5,4,4,4,4,1,0
+21,Menlo Park,26,Mountain View,14,6,9,10,10,8,9,9,10,7,7
+22,Palo Alto,26,Mountain View,10,22,26,26,26,45,47,47,54,62,61
+24,California Ave,26,Mountain View,1,5,7,9,9,6,6,6,7,4,4
+25,San Antonio,26,Mountain View,0,1,2,0,0,0,0,0,1,0,0
+26,Mountain View,26,Mountain View,0,0,0,0,0,0,0,0,0,0,0
+27,Sunnyvale,26,Mountain View,0,8,8,10,10,18,19,19,23,44,43
+28,Lawrence,26,Mountain View,0,1,1,5,5,9,12,12,16,7,7
+30,Santa Clara,26,Mountain View,5,3,7,8,7,5,5,5,6,3,3
+31,College Park,26,Mountain View,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,26,Mountain View,19,16,18,18,18,36,37,48,65,84,78
+33,Tamien,26,Mountain View,1,2,3,3,2,6,6,6,8,13,14
+34,Capitol,26,Mountain View,0,0,0,0,0,0,0,0,0,6,7
+35,Blossom Hill,26,Mountain View,0,0,0,0,0,0,0,0,0,9,10
+36,Morgan Hill,26,Mountain View,0,0,0,0,0,0,0,0,0,3,3
+37,San Martin,26,Mountain View,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,26,Mountain View,0,0,0,0,0,0,0,0,0,3,3
+1,Transbay,27,Sunnyvale,0,0,0,0,72,84,90,90,100,164,160
+2,4th and King,27,Sunnyvale,53,46,76,67,53,60,67,67,73,110,108
+4,22nd St,27,Sunnyvale,1,6,17,18,18,16,17,17,20,33,37
+7,Bayshore,27,Sunnyvale,0,3,12,13,13,12,12,12,14,23,23
+8,South San Francisco,27,Sunnyvale,1,2,4,4,5,0,0,0,0,17,17
+9,San Bruno,27,Sunnyvale,11,3,5,6,6,6,6,6,7,12,12
+10,Millbrae,27,Sunnyvale,10,10,13,13,13,18,19,19,21,29,29
+11,Broadway,27,Sunnyvale,0,0,6,7,7,6,7,7,7,8,8
+12,Burlingame,27,Sunnyvale,6,3,7,7,7,0,0,0,0,9,9
+13,San Mateo,27,Sunnyvale,3,5,8,7,7,7,7,7,8,10,13
+14,Hayward Park,27,Sunnyvale,0,2,5,5,5,6,6,6,7,11,11
+15,Hillsdale,27,Sunnyvale,3,6,8,8,8,13,14,14,15,25,24
+16,Belmont,27,Sunnyvale,1,3,6,6,6,6,6,6,7,8,12
+17,San Carlos,27,Sunnyvale,3,3,6,7,7,6,6,6,7,8,12
+18,Redwood City,27,Sunnyvale,3,10,13,14,15,12,14,14,17,36,36
+20,Atherton,27,Sunnyvale,0,0,4,4,5,0,0,0,0,2,1
+21,Menlo Park,27,Sunnyvale,1,4,7,8,8,7,8,8,10,7,7
+22,Palo Alto,27,Sunnyvale,6,14,21,22,23,26,29,29,35,56,53
+24,California Ave,27,Sunnyvale,15,3,6,8,8,7,8,8,9,6,5
+25,San Antonio,27,Sunnyvale,1,2,4,4,5,4,5,5,7,5,5
+26,Mountain View,27,Sunnyvale,2,6,8,12,11,15,16,16,21,41,39
+27,Sunnyvale,27,Sunnyvale,0,0,0,0,0,0,0,0,0,0,0
+28,Lawrence,27,Sunnyvale,0,0,0,0,0,0,0,0,2,0,0
+30,Santa Clara,27,Sunnyvale,0,2,4,7,7,2,3,3,5,3,2
+31,College Park,27,Sunnyvale,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,27,Sunnyvale,2,12,15,18,17,27,30,33,43,65,62
+33,Tamien,27,Sunnyvale,1,1,3,3,2,4,5,5,6,14,15
+34,Capitol,27,Sunnyvale,0,0,0,0,0,0,0,0,0,5,7
+35,Blossom Hill,27,Sunnyvale,0,0,0,0,0,0,0,0,0,8,9
+36,Morgan Hill,27,Sunnyvale,0,0,0,0,0,0,0,0,0,3,3
+37,San Martin,27,Sunnyvale,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,27,Sunnyvale,0,0,0,0,0,0,0,0,0,3,3
+1,Transbay,28,Lawrence,0,0,0,0,40,52,55,55,60,64,63
+2,4th and King,28,Lawrence,6,22,32,38,33,41,43,43,47,50,49
+4,22nd St,28,Lawrence,0,3,10,12,12,12,12,12,14,15,17
+7,Bayshore,28,Lawrence,0,1,7,8,8,7,8,8,8,3,3
+8,South San Francisco,28,Lawrence,0,1,3,4,4,3,4,4,4,8,8
+9,San Bruno,28,Lawrence,1,2,4,4,5,0,0,0,0,2,2
+10,Millbrae,28,Lawrence,6,4,8,7,7,12,13,13,14,12,12
+11,Broadway,28,Lawrence,0,0,4,4,5,5,5,5,6,2,2
+12,Burlingame,28,Lawrence,1,2,4,5,5,5,6,6,6,2,2
+13,San Mateo,28,Lawrence,0,2,4,5,5,5,6,6,6,2,2
+14,Hayward Park,28,Lawrence,0,1,3,4,5,4,4,4,5,2,2
+15,Hillsdale,28,Lawrence,0,2,4,5,5,9,9,9,10,10,10
+16,Belmont,28,Lawrence,0,2,3,4,5,0,0,0,0,2,1
+17,San Carlos,28,Lawrence,5,2,3,4,5,5,5,5,5,2,2
+18,Redwood City,28,Lawrence,3,3,7,8,8,14,14,14,16,7,6
+20,Atherton,28,Lawrence,0,0,3,3,3,3,3,3,4,0,0
+21,Menlo Park,28,Lawrence,3,2,4,5,5,0,0,0,0,3,3
+22,Palo Alto,28,Lawrence,2,6,10,12,13,17,19,19,23,15,14
+24,California Ave,28,Lawrence,0,2,3,4,5,0,0,0,0,4,4
+25,San Antonio,28,Lawrence,1,1,2,2,2,2,3,3,4,1,1
+26,Mountain View,28,Lawrence,0,1,2,6,6,12,13,13,17,7,7
+27,Sunnyvale,28,Lawrence,0,0,0,0,0,0,0,0,2,0,2
+28,Lawrence,28,Lawrence,0,0,0,0,0,0,0,0,0,0,0
+30,Santa Clara,28,Lawrence,0,2,3,9,9,0,0,0,0,6,6
+31,College Park,28,Lawrence,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,28,Lawrence,12,13,15,15,15,30,32,38,51,41,39
+33,Tamien,28,Lawrence,1,1,1,2,2,4,5,5,6,4,4
+34,Capitol,28,Lawrence,0,0,0,0,0,0,0,0,0,2,3
+35,Blossom Hill,28,Lawrence,0,0,0,0,0,0,0,0,0,3,4
+36,Morgan Hill,28,Lawrence,0,0,0,0,0,0,0,0,0,2,3
+37,San Martin,28,Lawrence,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,28,Lawrence,0,0,0,0,0,0,0,0,0,2,2
+1,Transbay,30,Santa Clara,0,0,0,0,46,45,48,48,52,65,64
+2,4th and King,30,Santa Clara,22,37,60,46,45,40,42,42,47,58,57
+4,22nd St,30,Santa Clara,5,6,15,15,15,14,15,15,18,19,21
+7,Bayshore,30,Santa Clara,3,2,11,13,13,0,0,0,0,5,5
+8,South San Francisco,30,Santa Clara,0,1,4,5,5,0,0,0,0,10,10
+9,San Bruno,30,Santa Clara,0,3,6,6,6,6,6,6,6,3,3
+10,Millbrae,30,Santa Clara,17,8,12,11,11,9,9,9,10,14,14
+11,Broadway,30,Santa Clara,0,0,6,7,7,0,0,0,0,3,3
+12,Burlingame,30,Santa Clara,0,4,6,7,7,0,0,0,0,4,4
+13,San Mateo,30,Santa Clara,0,4,7,8,8,6,7,7,7,4,4
+14,Hayward Park,30,Santa Clara,0,2,5,6,6,0,0,0,0,3,3
+15,Hillsdale,30,Santa Clara,14,4,7,9,9,7,7,7,8,12,12
+16,Belmont,30,Santa Clara,1,3,6,6,6,5,6,6,6,3,3
+17,San Carlos,30,Santa Clara,4,3,6,7,7,0,0,0,0,3,3
+18,Redwood City,30,Santa Clara,5,7,12,14,14,0,0,0,0,7,7
+20,Atherton,30,Santa Clara,0,0,4,4,4,0,0,0,0,1,1
+21,Menlo Park,30,Santa Clara,1,3,6,7,8,6,6,6,7,4,5
+22,Palo Alto,30,Santa Clara,8,9,14,13,14,10,10,10,12,9,8
+24,California Ave,30,Santa Clara,5,3,5,6,6,5,5,5,7,4,4
+25,San Antonio,30,Santa Clara,0,2,5,5,5,0,0,0,0,2,2
+26,Mountain View,30,Santa Clara,1,4,7,8,8,4,5,5,6,3,3
+27,Sunnyvale,30,Santa Clara,0,2,5,8,8,1,2,2,3,2,2
+28,Lawrence,30,Santa Clara,0,2,3,8,8,0,0,0,0,4,4
+30,Santa Clara,30,Santa Clara,0,0,0,0,0,0,0,0,0,0,0
+31,College Park,30,Santa Clara,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,30,Santa Clara,3,0,1,1,1,5,5,6,7,2,2
+33,Tamien,30,Santa Clara,2,1,1,1,1,2,2,2,2,1,1
+34,Capitol,30,Santa Clara,0,0,0,0,0,0,0,0,0,2,3
+35,Blossom Hill,30,Santa Clara,0,0,0,0,0,0,0,0,0,4,4
+36,Morgan Hill,30,Santa Clara,0,0,0,0,0,0,0,0,0,2,3
+37,San Martin,30,Santa Clara,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,30,Santa Clara,0,0,0,0,0,0,0,0,0,2,3
+1,Transbay,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+2,4th and King,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+4,22nd St,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+7,Bayshore,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+8,South San Francisco,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+9,San Bruno,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+10,Millbrae,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+11,Broadway,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+12,Burlingame,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+13,San Mateo,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+14,Hayward Park,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+15,Hillsdale,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+16,Belmont,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+17,San Carlos,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+18,Redwood City,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+20,Atherton,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+21,Menlo Park,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+22,Palo Alto,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+24,California Ave,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+25,San Antonio,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+26,Mountain View,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+27,Sunnyvale,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+28,Lawrence,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+30,Santa Clara,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+31,College Park,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+33,Tamien,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+34,Capitol,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+35,Blossom Hill,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+36,Morgan Hill,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+37,San Martin,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,31,College Park,0,0,0,0,0,0,0,0,0,0,0
+1,Transbay,32,San Jose Diridon,0,0,0,0,67,80,83,81,66,122,126
+2,4th and King,32,San Jose Diridon,80,60,107,65,64,85,90,87,71,119,128
+4,22nd St,32,San Jose Diridon,5,10,24,22,22,28,29,29,33,39,43
+7,Bayshore,32,San Jose Diridon,0,6,17,16,15,15,16,16,19,28,28
+8,South San Francisco,32,San Jose Diridon,0,2,7,8,8,5,6,6,7,22,22
+9,San Bruno,32,San Jose Diridon,3,5,8,9,9,8,9,9,9,13,13
+10,Millbrae,32,San Jose Diridon,29,14,18,16,15,23,23,22,17,27,29
+11,Broadway,32,San Jose Diridon,0,0,9,10,10,9,9,9,10,9,9
+12,Burlingame,32,San Jose Diridon,7,7,9,11,11,10,11,11,11,10,10
+13,San Mateo,32,San Jose Diridon,9,8,11,12,12,17,17,17,18,12,17
+14,Hayward Park,32,San Jose Diridon,17,4,8,8,8,8,8,8,9,13,13
+15,Hillsdale,32,San Jose Diridon,7,10,13,15,14,26,28,28,30,38,36
+16,Belmont,32,San Jose Diridon,0,6,9,10,10,9,9,10,11,11,16
+17,San Carlos,32,San Jose Diridon,10,6,10,11,11,10,10,11,13,12,19
+18,Redwood City,32,San Jose Diridon,6,18,22,21,20,31,33,37,47,64,65
+20,Atherton,32,San Jose Diridon,0,0,6,7,7,6,7,7,9,5,5
+21,Menlo Park,32,San Jose Diridon,6,7,11,15,13,11,11,12,16,11,12
+22,Palo Alto,32,San Jose Diridon,22,36,51,55,51,73,81,97,139,167,162
+24,California Ave,32,San Jose Diridon,8,7,12,17,15,11,12,14,18,14,14
+25,San Antonio,32,San Jose Diridon,10,5,10,10,10,6,8,9,11,10,9
+26,Mountain View,32,San Jose Diridon,7,14,19,19,19,35,36,47,65,84,78
+27,Sunnyvale,32,San Jose Diridon,5,17,20,23,21,30,32,35,44,68,64
+28,Lawrence,32,San Jose Diridon,5,14,17,18,18,28,31,37,51,43,41
+30,Santa Clara,32,San Jose Diridon,2,2,7,7,7,4,4,5,7,3,4
+31,College Park,32,San Jose Diridon,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,32,San Jose Diridon,0,0,0,0,0,0,0,0,0,0,0
+33,Tamien,32,San Jose Diridon,1,1,1,1,1,6,7,10,15,20,21
+34,Capitol,32,San Jose Diridon,0,0,0,0,0,0,0,0,0,7,10
+35,Blossom Hill,32,San Jose Diridon,0,0,0,0,0,0,0,0,0,10,12
+36,Morgan Hill,32,San Jose Diridon,0,0,0,0,0,0,0,0,0,4,5
+37,San Martin,32,San Jose Diridon,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,32,San Jose Diridon,0,0,0,0,0,0,0,0,0,2,3
+1,Transbay,33,Tamien,0,0,0,0,11,20,22,22,27,44,47
+2,4th and King,33,Tamien,1,6,13,13,11,19,21,21,27,41,44
+4,22nd St,33,Tamien,0,0,4,5,4,6,7,7,8,13,15
+7,Bayshore,33,Tamien,0,0,3,3,3,3,3,3,4,10,11
+8,South San Francisco,33,Tamien,0,0,1,2,1,1,1,1,2,7,8
+9,San Bruno,33,Tamien,0,1,2,2,2,2,2,2,2,4,5
+10,Millbrae,33,Tamien,0,1,3,3,3,6,6,6,8,11,13
+11,Broadway,33,Tamien,0,0,2,2,2,2,2,2,3,3,3
+12,Burlingame,33,Tamien,0,1,2,2,2,2,2,2,3,3,3
+13,San Mateo,33,Tamien,1,1,2,2,2,3,4,4,5,3,6
+14,Hayward Park,33,Tamien,0,0,2,2,2,1,1,1,2,4,5
+15,Hillsdale,33,Tamien,0,1,2,2,2,5,5,5,7,10,11
+16,Belmont,33,Tamien,0,1,2,2,2,2,2,2,2,2,5
+17,San Carlos,33,Tamien,0,1,2,2,2,2,2,2,2,3,5
+18,Redwood City,33,Tamien,0,2,3,3,3,5,6,6,7,12,14
+20,Atherton,33,Tamien,0,0,1,2,1,1,1,1,2,0,1
+21,Menlo Park,33,Tamien,0,1,2,2,2,2,2,2,3,2,2
+22,Palo Alto,33,Tamien,0,1,4,5,4,8,9,9,14,21,23
+24,California Ave,33,Tamien,0,1,2,3,2,2,2,2,3,2,2
+25,San Antonio,33,Tamien,0,0,2,2,2,1,1,1,2,1,2
+26,Mountain View,33,Tamien,0,1,3,3,2,5,6,6,7,11,12
+27,Sunnyvale,33,Tamien,0,1,3,3,2,4,5,5,6,13,14
+28,Lawrence,33,Tamien,0,1,2,2,2,4,4,4,6,3,3
+30,Santa Clara,33,Tamien,0,1,2,2,2,1,1,1,2,0,1
+31,College Park,33,Tamien,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,33,Tamien,0,0,0,0,0,5,5,7,11,14,14
+33,Tamien,33,Tamien,0,0,0,0,0,0,0,0,0,0,0
+34,Capitol,33,Tamien,0,0,0,0,0,0,0,0,0,1,2
+35,Blossom Hill,33,Tamien,0,0,0,0,0,0,0,0,0,2,3
+36,Morgan Hill,33,Tamien,0,0,0,0,0,0,0,0,0,1,1
+37,San Martin,33,Tamien,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,33,Tamien,0,0,0,0,0,0,0,0,0,1,2
+1,Transbay,34,Capitol,0,0,0,0,0,0,0,0,0,15,21
+2,4th and King,34,Capitol,0,0,0,0,0,0,0,0,0,15,20
+4,22nd St,34,Capitol,0,0,0,0,0,0,0,0,0,6,9
+7,Bayshore,34,Capitol,0,0,0,0,0,0,0,0,0,5,6
+8,South San Francisco,34,Capitol,0,0,0,0,0,0,0,0,0,4,6
+9,San Bruno,34,Capitol,0,0,0,0,0,0,0,0,0,2,3
+10,Millbrae,34,Capitol,0,0,0,0,0,0,0,0,0,5,7
+11,Broadway,34,Capitol,0,0,0,0,0,0,0,0,0,1,2
+12,Burlingame,34,Capitol,0,0,0,0,0,0,0,0,0,1,2
+13,San Mateo,34,Capitol,0,0,0,0,0,0,0,0,0,1,3
+14,Hayward Park,34,Capitol,0,0,0,0,0,0,0,0,0,2,3
+15,Hillsdale,34,Capitol,0,0,0,0,0,0,0,0,0,5,6
+16,Belmont,34,Capitol,0,0,0,0,0,0,0,0,0,1,3
+17,San Carlos,34,Capitol,0,0,0,0,0,0,0,0,0,1,3
+18,Redwood City,34,Capitol,0,0,0,0,0,0,0,0,0,5,7
+20,Atherton,34,Capitol,0,0,0,0,0,0,0,0,0,1,0
+21,Menlo Park,34,Capitol,0,0,0,0,0,0,0,0,0,1,3
+22,Palo Alto,34,Capitol,0,0,0,0,0,0,0,0,0,5,7
+24,California Ave,34,Capitol,0,0,0,0,0,0,0,0,0,2,3
+25,San Antonio,34,Capitol,0,0,0,0,0,0,0,0,0,2,2
+26,Mountain View,34,Capitol,0,0,0,0,0,0,0,0,0,5,6
+27,Sunnyvale,34,Capitol,0,0,0,0,0,0,0,0,0,5,6
+28,Lawrence,34,Capitol,0,0,0,0,0,0,0,0,0,2,2
+30,Santa Clara,34,Capitol,0,0,0,0,0,0,0,0,0,2,2
+31,College Park,34,Capitol,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,34,Capitol,0,0,0,0,0,0,0,0,0,6,8
+33,Tamien,34,Capitol,0,0,0,0,0,0,0,0,0,1,2
+34,Capitol,34,Capitol,0,0,0,0,0,0,0,0,0,0,0
+35,Blossom Hill,34,Capitol,0,0,0,0,0,0,0,0,0,1,2
+36,Morgan Hill,34,Capitol,0,0,0,0,0,0,0,0,0,1,1
+37,San Martin,34,Capitol,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,34,Capitol,0,0,0,0,0,0,0,0,0,8,8
+1,Transbay,35,Blossom Hill,0,0,0,0,0,0,0,0,0,23,28
+2,4th and King,35,Blossom Hill,0,0,0,0,0,0,0,0,0,22,26
+4,22nd St,35,Blossom Hill,0,0,0,0,0,0,0,0,0,8,11
+7,Bayshore,35,Blossom Hill,0,0,0,0,0,0,0,0,0,6,7
+8,South San Francisco,35,Blossom Hill,0,0,0,0,0,0,0,0,0,5,6
+9,San Bruno,35,Blossom Hill,0,0,0,0,0,0,0,0,0,3,4
+10,Millbrae,35,Blossom Hill,0,0,0,0,0,0,0,0,0,7,9
+11,Broadway,35,Blossom Hill,0,0,0,0,0,0,0,0,0,2,2
+12,Burlingame,35,Blossom Hill,0,0,0,0,0,0,0,0,0,2,2
+13,San Mateo,35,Blossom Hill,0,0,0,0,0,0,0,0,0,2,4
+14,Hayward Park,35,Blossom Hill,0,0,0,0,0,0,0,0,0,3,3
+15,Hillsdale,35,Blossom Hill,0,0,0,0,0,0,0,0,0,6,7
+16,Belmont,35,Blossom Hill,0,0,0,0,0,0,0,0,0,2,4
+17,San Carlos,35,Blossom Hill,0,0,0,0,0,0,0,0,0,2,4
+18,Redwood City,35,Blossom Hill,0,0,0,0,0,0,0,0,0,7,8
+20,Atherton,35,Blossom Hill,0,0,0,0,0,0,0,0,0,1,0
+21,Menlo Park,35,Blossom Hill,0,0,0,0,0,0,0,0,0,2,4
+22,Palo Alto,35,Blossom Hill,0,0,0,0,0,0,0,0,0,7,9
+24,California Ave,35,Blossom Hill,0,0,0,0,0,0,0,0,0,3,4
+25,San Antonio,35,Blossom Hill,0,0,0,0,0,0,0,0,0,2,3
+26,Mountain View,35,Blossom Hill,0,0,0,0,0,0,0,0,0,7,8
+27,Sunnyvale,35,Blossom Hill,0,0,0,0,0,0,0,0,0,7,8
+28,Lawrence,35,Blossom Hill,0,0,0,0,0,0,0,0,0,3,3
+30,Santa Clara,35,Blossom Hill,0,0,0,0,0,0,0,0,0,3,3
+31,College Park,35,Blossom Hill,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,35,Blossom Hill,0,0,0,0,0,0,0,0,0,8,9
+33,Tamien,35,Blossom Hill,0,0,0,0,0,0,0,0,0,2,3
+34,Capitol,35,Blossom Hill,0,0,0,0,0,0,0,0,0,1,2
+35,Blossom Hill,35,Blossom Hill,0,0,0,0,0,0,0,0,0,0,0
+36,Morgan Hill,35,Blossom Hill,0,0,0,0,0,0,0,0,0,0,1
+37,San Martin,35,Blossom Hill,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,35,Blossom Hill,0,0,0,0,0,0,0,0,0,2,2
+1,Transbay,36,Morgan Hill,0,0,0,0,0,0,0,0,0,12,15
+2,4th and King,36,Morgan Hill,0,0,0,0,0,0,0,0,0,10,12
+4,22nd St,36,Morgan Hill,0,0,0,0,0,0,0,0,0,3,5
+7,Bayshore,36,Morgan Hill,0,0,0,0,0,0,0,0,0,4,6
+8,South San Francisco,36,Morgan Hill,0,0,0,0,0,0,0,0,0,2,2
+9,San Bruno,36,Morgan Hill,0,0,0,0,0,0,0,0,0,2,3
+10,Millbrae,36,Morgan Hill,0,0,0,0,0,0,0,0,0,3,4
+11,Broadway,36,Morgan Hill,0,0,0,0,0,0,0,0,0,1,2
+12,Burlingame,36,Morgan Hill,0,0,0,0,0,0,0,0,0,1,2
+13,San Mateo,36,Morgan Hill,0,0,0,0,0,0,0,0,0,1,3
+14,Hayward Park,36,Morgan Hill,0,0,0,0,0,0,0,0,0,2,3
+15,Hillsdale,36,Morgan Hill,0,0,0,0,0,0,0,0,0,2,3
+16,Belmont,36,Morgan Hill,0,0,0,0,0,0,0,0,0,1,3
+17,San Carlos,36,Morgan Hill,0,0,0,0,0,0,0,0,0,1,3
+18,Redwood City,36,Morgan Hill,0,0,0,0,0,0,0,0,0,3,3
+20,Atherton,36,Morgan Hill,0,0,0,0,0,0,0,0,0,1,0
+21,Menlo Park,36,Morgan Hill,0,0,0,0,0,0,0,0,0,1,3
+22,Palo Alto,36,Morgan Hill,0,0,0,0,0,0,0,0,0,3,4
+24,California Ave,36,Morgan Hill,0,0,0,0,0,0,0,0,0,2,3
+25,San Antonio,36,Morgan Hill,0,0,0,0,0,0,0,0,0,2,2
+26,Mountain View,36,Morgan Hill,0,0,0,0,0,0,0,0,0,3,3
+27,Sunnyvale,36,Morgan Hill,0,0,0,0,0,0,0,0,0,3,3
+28,Lawrence,36,Morgan Hill,0,0,0,0,0,0,0,0,0,2,3
+30,Santa Clara,36,Morgan Hill,0,0,0,0,0,0,0,0,0,2,3
+31,College Park,36,Morgan Hill,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,36,Morgan Hill,0,0,0,0,0,0,0,0,0,3,4
+33,Tamien,36,Morgan Hill,0,0,0,0,0,0,0,0,0,1,1
+34,Capitol,36,Morgan Hill,0,0,0,0,0,0,0,0,0,1,1
+35,Blossom Hill,36,Morgan Hill,0,0,0,0,0,0,0,0,0,1,1
+36,Morgan Hill,36,Morgan Hill,0,0,0,0,0,0,0,0,0,0,0
+37,San Martin,36,Morgan Hill,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,36,Morgan Hill,0,0,0,0,0,0,0,0,0,1,1
+1,Transbay,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+2,4th and King,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+4,22nd St,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+7,Bayshore,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+8,South San Francisco,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+9,San Bruno,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+10,Millbrae,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+11,Broadway,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+12,Burlingame,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+13,San Mateo,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+14,Hayward Park,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+15,Hillsdale,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+16,Belmont,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+17,San Carlos,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+18,Redwood City,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+20,Atherton,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+21,Menlo Park,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+22,Palo Alto,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+24,California Ave,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+25,San Antonio,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+26,Mountain View,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+27,Sunnyvale,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+28,Lawrence,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+30,Santa Clara,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+31,College Park,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+33,Tamien,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+34,Capitol,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+35,Blossom Hill,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+36,Morgan Hill,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+37,San Martin,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,37,San Martin,0,0,0,0,0,0,0,0,0,0,0
+1,Transbay,38,Gilroy,0,0,0,0,0,0,0,0,0,4,7
+2,4th and King,38,Gilroy,0,0,0,0,0,0,0,0,0,4,7
+4,22nd St,38,Gilroy,0,0,0,0,0,0,0,0,0,3,5
+7,Bayshore,38,Gilroy,0,0,0,0,0,0,0,0,0,4,6
+8,South San Francisco,38,Gilroy,0,0,0,0,0,0,0,0,0,2,2
+9,San Bruno,38,Gilroy,0,0,0,0,0,0,0,0,0,2,3
+10,Millbrae,38,Gilroy,0,0,0,0,0,0,0,0,0,1,2
+11,Broadway,38,Gilroy,0,0,0,0,0,0,0,0,0,1,2
+12,Burlingame,38,Gilroy,0,0,0,0,0,0,0,0,0,1,2
+13,San Mateo,38,Gilroy,0,0,0,0,0,0,0,0,0,1,3
+14,Hayward Park,38,Gilroy,0,0,0,0,0,0,0,0,0,2,2
+15,Hillsdale,38,Gilroy,0,0,0,0,0,0,0,0,0,2,3
+16,Belmont,38,Gilroy,0,0,0,0,0,0,0,0,0,1,3
+17,San Carlos,38,Gilroy,0,0,0,0,0,0,0,0,0,1,3
+18,Redwood City,38,Gilroy,0,0,0,0,0,0,0,0,0,3,3
+20,Atherton,38,Gilroy,0,0,0,0,0,0,0,0,0,1,0
+21,Menlo Park,38,Gilroy,0,0,0,0,0,0,0,0,0,1,3
+22,Palo Alto,38,Gilroy,0,0,0,0,0,0,0,0,0,3,4
+24,California Ave,38,Gilroy,0,0,0,0,0,0,0,0,0,2,3
+25,San Antonio,38,Gilroy,0,0,0,0,0,0,0,0,0,2,2
+26,Mountain View,38,Gilroy,0,0,0,0,0,0,0,0,0,3,3
+27,Sunnyvale,38,Gilroy,0,0,0,0,0,0,0,0,0,3,3
+28,Lawrence,38,Gilroy,0,0,0,0,0,0,0,0,0,2,2
+30,Santa Clara,38,Gilroy,0,0,0,0,0,0,0,0,0,2,2
+31,College Park,38,Gilroy,0,0,0,0,0,0,0,0,0,0,0
+32,San Jose Diridon,38,Gilroy,0,0,0,0,0,0,0,0,0,2,3
+33,Tamien,38,Gilroy,0,0,0,0,0,0,0,0,0,1,2
+34,Capitol,38,Gilroy,0,0,0,0,0,0,0,0,0,0,9
+35,Blossom Hill,38,Gilroy,0,0,0,0,0,0,0,0,0,1,1
+36,Morgan Hill,38,Gilroy,0,0,0,0,0,0,0,0,0,0,1
+37,San Martin,38,Gilroy,0,0,0,0,0,0,0,0,0,0,0
+38,Gilroy,38,Gilroy,0,0,0,0,0,0,0,0,0,0,0
