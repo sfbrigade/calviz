@@ -1,0 +1,31 @@
+service_id,date,holiday_name,exception_type
+c_17565_b_none_d_127,20190630,GPP Service,1
+c_17062_b_none_d_127,20190626,Baseball_1245PM,1
+c_17061_b_none_d_127,20190608,Baseball_415PM,1
+c_17060_b_none_d_127,20190629,Baseball_705PM,1
+c_17059_b_none_d_127,20190831,Baseball_605PM,1
+c_17058_b_none_d_127,20190609,Baseball_105PM,1
+c_17057_b_none_d_127,20190929,Baseball_1205PM,1
+c_16869_b_19500_d_31,20190902,Labor Day,2
+c_16869_b_19500_d_31,20190704,4th of July,2
+c_16884_b_19708_d_96,20190902,Labor Day,1
+c_16884_b_19708_d_96,20190704,4th of July,1
+c_17058_b_none_d_127,20190526,Baseball_105PM,1
+c_17058_b_none_d_127,20190615,Baseball_105PM,1
+c_17058_b_none_d_127,20190616,Baseball_105PM,1
+c_17058_b_none_d_127,20190630,Baseball_105PM,1
+c_17060_b_none_d_127,20190706,Baseball_705PM,1
+c_17058_b_none_d_127,20190707,Baseball_105PM,1
+c_17058_b_none_d_127,20190720,Baseball_105PM,1
+c_17058_b_none_d_127,20190721,Baseball_105PM,1
+c_17062_b_none_d_127,20190724,Baseball_1245PM,1
+c_17062_b_none_d_127,20190807,Baseball_1245PM,1
+c_17058_b_none_d_127,20190810,Baseball_105PM,1
+c_17058_b_none_d_127,20190811,Baseball_105PM,1
+c_17062_b_none_d_127,20190814,Baseball_1245PM,1
+c_17058_b_none_d_127,20190901,Baseball_105PM,1
+c_17062_b_none_d_127,20190912,Baseball_1245PM,1
+c_17059_b_none_d_127,20190914,Baseball_605PM,1
+c_17058_b_none_d_127,20190915,Baseball_105PM,1
+c_17062_b_none_d_127,20190926,Baseball_1245PM,1
+c_17058_b_none_d_127,20190928,Baseball_105PM,1

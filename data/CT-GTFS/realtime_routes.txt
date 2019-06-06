@@ -1,0 +1,6 @@
+route_id,realtime_enabled,realtime_routename,realtime_routecode
+12867,1,Baby Bullet,Baby Bullet
+12868,1,Limited,Limited
+12869,1,Local,Local
+12870,0,TaSJ-Shuttle,TaSJ-Shuttle
+12871,1,Special Event Extra Service,Special
